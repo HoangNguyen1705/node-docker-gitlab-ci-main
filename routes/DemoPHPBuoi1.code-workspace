@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "C:/xampp/htdocs/DemoPHPBuoi1"
+		},
+		{
+			"path": "../../../MTPTPM"
+		},
+		{
+			"path": "C:/xampp/htdocs/PHPOOP"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:/Users/ADMIN/hoang"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "food-recipes-website-main"
+	}
+}
