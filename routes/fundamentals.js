@@ -181,7 +181,5 @@ function SplitANumberIntoItsDigits(a) {
   return strings.map(digit => Number(digit))
 }
 
-
 module.exports = router;
-
-
+//Finish
